@@ -1,0 +1,33 @@
+
+.my-form {
+    background-color: black ;
+    padding: 20px; 
+    border-radius: 8px; 
+    color: white;
+    width:65rem;
+    height: 12rem;
+    position: relative;
+    right: 4.6rem;
+    bottom: 3.5rem;
+    border-top: 5px solid orange;
+  }
+  
+  .form-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: orange;
+  }
+  
+  .btn-primary {
+    background-color: orange;
+    width: 90px;
+    position: relative;
+    right: 1.125rem;
+    height: 3.2rem;
+  }
+  
+  #from-1{
+    width: 17rem;
+    height: 3.2rem;
+  }

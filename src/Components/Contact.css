@@ -1,0 +1,22 @@
+.form{
+    background-color: chocolate;
+    width: min-content;
+    margin: auto;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+}
+.contact{
+    font-size: 5rem;
+    color: black;
+}
+
+img{
+    position: relative;
+    top: 5rem;
+}
+
+.btn{
+    width: 6rem;
+    border-radius: 1rem;
+    font-size:1rem;
+}

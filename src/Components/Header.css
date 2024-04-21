@@ -1,0 +1,33 @@
+body{
+    font-family:monospace
+}
+.nav-link:hover {
+    background-color: orange;
+    border-radius: 1rem;
+    
+    }
+
+.bk{
+   background-color: whitesmoke;
+   height: 100px;
+   
+}
+
+.btn-outline-secondary{
+    background-color: black;
+    color: white;
+    margin-right: 2rem;
+}
+.btn-outline-secondary:hover{
+    background-color: orange;
+}
+
+ul{
+margin-left: 12rem;
+gap:2rem;
+}
+
+.navbar-brand{
+    margin-left: 1rem;
+    font-size:2rem;
+}
